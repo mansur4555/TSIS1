@@ -1,0 +1,15 @@
+#This is a comment.
+print("Comments")
+
+#print("Hello, World!")
+
+#python
+#syntax
+#very simple
+
+"""
+
+This is a multiple 
+comment!
+
+"""
